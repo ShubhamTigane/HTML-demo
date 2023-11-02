@@ -1,3 +1,3 @@
 # demo
-## demo for fcc
+## demo for freeCodeCamp tutorial
 new change 
